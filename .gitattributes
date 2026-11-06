@@ -1,0 +1,7 @@
+*.woff2 binary
+
+* text=auto
+
+*.ts linguist-detectable
+
+docs/* linguist-vendored
